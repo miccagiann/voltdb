@@ -12,7 +12,6 @@
         </condition>
     </sequential>
 </macrodef>
-
 <macrodef name="invoke-javac">
     <attribute name="srcdir"/>
     <attribute name="destdir" default="${build.prod.dir}"/>
